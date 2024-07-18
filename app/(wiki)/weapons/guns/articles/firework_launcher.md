@@ -10,7 +10,7 @@ The **Firework Launcher** is an RPG utilizing firework ammunition. It was added 
 - The Firework Launcher is viable throughout the game due to its versatility.
   - The [Firework Warehouse](/buildings/firework_warehouse) is majorly contested in the beginning of the game due to it having the Firework Launcher, Fireworks, and [Confetti Grenades](/weapons/throwables/confetti_grenade).
 - Make sure to pick up as much Firework ammunition as you can, as it will be hard to source more fireworks later in game.
-  - If you are really running low on Fireworks, you can break [Ammo Crates](/obstacles/ammo_crate) using a [Maul](/weapons/melee/maul) to get extra fireworks.
+  - If you are running low on Fireworks, you can break [Ammo Crates](/obstacles/ammo_crate) using a [Maul](/weapons/melee/maul) to get extra fireworks.
 - The Firework Launcher is most effective in long range fights.
   - It pairs very well with larger scopes, like the 8x and 15x.
 - Make note that the Fireworks, shot out of the Firework Launcher move relatively slow, so make sure to lead your opponents when you fire.
@@ -19,7 +19,7 @@ The **Firework Launcher** is an RPG utilizing firework ammunition. It was added 
 ## Countering
 
 - Weapons such as shotguns or other SMGs overpower the Firework Launcher at close range.
-- Stay at close range, because the Firework Launcher is not very good at CQC (Close Quarters Combat).
+- Because of the Firework Launcher's long firing delay, attack players using it right after they fire.
 - Stay aware of opponents with the Firework Launcher and if you are fired upon, you may have time to move out of the way and dodge the firework.
 
 # Obtaining
