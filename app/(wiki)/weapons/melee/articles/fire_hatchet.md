@@ -10,7 +10,7 @@ A hatchet is a single-handed striking tool with a sharp blade on one side used t
 
 ## Countering
 - As with other melee weapons, the best way to avoid them is to keep the distance between you and your opponent.
-- The [Hatchet](/weapons/hatchet) has a higher DPS than the Fire Hatchet, and the [Maul](/weapons/maul) is on par.
+- The [Hatchet](/weapons/hatchet) has a higher DPS than the Fire Hatchet, and the [Maul](/weapons/melee/maul) is on par.
 
 # Obtaining
 The Fire Hatchet can currently only be obtained in the [Fire Hatchet Case](/obstacles/fire_hatchet_case) on the [Oil Tanker](/buildings/oil_tanker).
